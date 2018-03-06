@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Group21_HW5</string>
+
+    <!-- && -->
+    <string name="podcast_name">Podcast Title</string>
+    <string name="podcast_updated">Updated on: </string>
+    <string name="date_placeholder">Date</string>
+    <string name="summary_placeholder">Summary</string>
+    <string name="podcast_summary">Podcast Summary</string>
+
+    <!-- UI Strings-->
+    <string name="clear_button">Clear</string>
+    <string name="go_button">Go</string>
+
+    <string name="search_bar">Search...</string>
+
+</resources>
